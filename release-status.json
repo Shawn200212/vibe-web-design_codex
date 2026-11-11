@@ -1,0 +1,9 @@
+{
+  "checked_on": "2026-11-11",
+  "platform": "codex",
+  "core": "vibe-web-design_codex-core",
+  "behavior_scope": "Bounded synthetic writing checks; no native Claude model or live application certification",
+  "source_sha256": {
+    "vibe-web-design": "e90b3ff3217696f175ab48cbda7b3f1deac3ffa1469891e487617e851bb44e35"
+  }
+}
